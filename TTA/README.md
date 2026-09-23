@@ -43,10 +43,6 @@ src/
   models.py
   plain_generation.py
   rewards.py
-plot/
-  oval_hyperparameter_bars.py
-  oval_update_diagnostics.py
-  llm_judge_win_rates.py
 ```
 
 
